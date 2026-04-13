@@ -1,0 +1,137 @@
+* {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    text-align: justify;
+    color: #ffffff;
+}
+  
+html {
+  font-size: 16pt;
+}
+
+body {
+  background-image: url(foret.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#title {
+  color: rgb(255, 255, 255);
+  text-decoration: underline overline;
+  font-family: Algerian;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+
+#container {
+  max-width: 960px;
+  margin: 0 auto;
+  margin-top: 2rem;
+  border: solid 4px rgb(45, 33, 33);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-flow: column;
+  gap: 1rem;
+  align-items: center;
+  background: linear-gradient(90deg, rgb(14, 111, 90), rgb(103, 15, 39));
+}
+
+.horizontal {
+  display: flex;
+  flex-flow: row;
+  gap: 1rem;
+}
+
+#combination {
+  border: solid 3px rgb(45, 33, 33);
+  color: black;
+}
+  
+#colors {
+  font-size: 0.6rem;
+  color: #ffffff;
+  border: solid 2px black;
+  padding: 1rem;
+}
+
+#send {
+  border: solid 2px white;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  background-color:deepskyblue;
+  color: white;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.color {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 1rem;
+  border: 2px solid lightgrey;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.color-r {
+  background-color: red;
+}
+
+.color-g {
+  background-color: green;
+}
+
+.color-b {
+  background-color: blue;
+}
+
+.color-v {
+  background-color: violet;
+}
+
+.color-y {
+  background-color: yellow;
+}
+
+#delete {
+  background-image: url(image.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+#history {
+  list-style: none;
+}
+
+#combination {
+  display: none;
+}
+
+#proposition {
+  border: solid 2px lightgrey;
+  border-radius: 0.5rem;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  padding: 0.25rem;
+  width: 15rem;
+  height: 2.5rem;
+}
+
+#proposition .color {
+  border-color: rgb(0, 0, 0);
+}

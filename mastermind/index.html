@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CESI Mastermind</title>
+    <link href="./mmind.css" rel="stylesheet">
+</head>
+
+<body>
+  <div id="container">
+    <h1 id="title">Let's play a Mastermind</h1>
+    <div id="prompt">~Guess my combination~</div>
+    <div id="colors">Red (r), Green (g), Blue (b), Yellow (y), Violet (v)</div>
+
+    <div class="horizontal" onclick="clickedOnColor(event)">
+      <div id="color-r" class="color color-r"></div>
+      <div id="color-g" class="color color-g"></div>
+      <div id="color-b" class="color color-b"></div>
+      <div id="color-v" class="color color-v"></div>
+      <div id="color-y" class="color color-y"></div>
+      <div id="delete" class="color"></div>
+    </div>
+
+    <div id="proposition" class="horizontal"></div>
+    <div class="horizontal">
+      <input id="combination" maxlength="5" onkeydown="keypressed(event)">
+
+      <button 
+        id="send"
+        onclick="clickedOnSend()">Send</button>
+    </div> 
+    <div id="message"></div>
+    <ul id="history"></ul>
+  <script src="./mmind.js"></script>
+</body>
+</html>
