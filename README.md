@@ -48,4 +48,4 @@ pour chaque projet il y a un petit encadré qui contient lui même :
 
 
 # page pour les mentions légales
-
+Ces la page des mentions légales, elle contient les mentions légales importante pour ce portfolio et celle-ci sont françaises.
