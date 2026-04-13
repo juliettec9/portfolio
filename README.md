@@ -32,7 +32,14 @@ Dans ces cases on retrouve les informations suiventes :
 - les Résultats
 
 # page de projets
-
+La page de projets contient quelque uns de mes projets réalisés.
+pour chaque projet il y a un petit encadré qui contient lui même :
+- le nom du projet
+- le type du projet
+- le nom complète du projet
+- le nom de l'entreprise pour laquelle à était réalisé le projet
+- un résumé de ce projet (son but ou comment il à était fais)
+- un lien vers le git lab du projet ou vers le projet en lui-même
 
 # page pour le CV
 
