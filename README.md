@@ -19,7 +19,16 @@ Sur la page de compétances on retrouve toutes mes compétances, également dét
 Cette évaluation de compétences m'est propre, pour moi elle est représentative de mon niveau dans celles-ci mais cela reste un avis personnelle.
 
 # page d'expériences
-
+La page d'expériences résume toutes les expériences professionelles que j'ai eu ou que j'aurais très prochainement. 
+Les expériences sont rangées de la plus vielle (en premier) à la plus récente (en dernière).
+Dans ces cases on retrouve les informations suiventes :
+- la durrée
+- le poste
+- l'entreprise
+- le lieu
+- la situation
+- les Tâches et Actions effectuées
+- les Résultats
 
 # page de projets
 
