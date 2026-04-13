@@ -9,7 +9,8 @@ Ce portfolio est composé de plusieurs parties :
 - page pour le CV
 - pade de contact
 - et une page pour les mentions légales
-sur toutes les pages il y a acces au menus avec toutes les autres page et il y a également un footer avec le lien de la page de contact et des mentions légales mais également mon nom et prénom, l'année de la dérnière mise à jour de ce portfolio et le symbole de copyright.
+
+Sur toutes les pages il y a acces au menus avec toutes les autres page et il y a également un footer avec le lien de la page de contact et des mentions légales mais également mon nom et prénom, l'année de la dérnière mise à jour de ce portfolio et le symbole de copyright.
 
 # page d'acceuil
 La page d'acceuil contient mon nom et prénom ainsi que mon statut acctuel, une décription de pourquoi j'ai choisi cette voix et enfin 2 liens (l'un mennant à la page de mes projets réalisés et l'autre vers la page de contact)
