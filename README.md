@@ -1,26 +1,26 @@
 # Portefolio
-Ce portfolio à pour but de faire découvrir au monde du travail qui je suis et ce que je sais faire.
-Il à était réaliser à l'aide d'une IA comme demandé par mon proffesseur mais les informations et projets qui y figure sont de ma propre réalisation sans aucune IA ou aide de ce genre.
+Ce portfolio a pour but de faire découvrir au monde du travail qui je suis et ce que je sais faire.
+Il a été réalisé à l'aide d'une IA comme demandé par mon professeur mais les informations et projets qui y figurent sont de ma propre réalisation sans aucune IA ou aide de ce genre.
 Ce portfolio est composé de plusieurs parties : 
 - page d'acceuil
-- page de compétances
+- page de compétences
 - page d'expériences
 - page de projets
 - page pour le CV
-- pade de contact
+- page de contact
 - et une page pour les mentions légales
 
-Sur toutes les pages il y a un acces au menus avec toutes les autres pages et il y a également un footer avec le lien de la page de contact et des mentions légales mais également mon nom et prénom, l'année de la dérnière mise à jour de ce portfolio et le symbole de copyright.
+Sur toutes les pages il y a un acces au menu avec toutes les autres pages et il y a également un footer avec le lien de la page de contact et des mentions légales mais également mon nom et prénom, l'année de la dernière mise à jour de ce portfolio et le symbole de copyright.
 
-# page d'acceuil
-La page d'acceuil contient mon nom et prénom ainsi que mon statut acctuel, une décription de pourquoi j'ai choisi cette voix et enfin 2 liens (l'un mennant à la page de mes projets réalisés et l'autre vers la page de contact)
+# page d'accueil
+La page d'accueil contient mon nom et prénom ainsi que mon statut actuel, une description de pourquoi j'ai choisi cette voix et enfin 2 liens (l'un menant à la page de mes projets réalisés et l'autre vers la page de contact)
 
-# page de compétances
-Sur la page de compétances on retrouve toutes mes compétances, également détaillées sont mon cv qui sont chacune représentées par une barre de progrétion de métrise en proucentages. 
-Cette évaluation de compétences m'est propre, pour moi elle est représentative de mon niveau dans celles-ci mais cela reste un avis personnelle.
+# page de compétences
+Sur la page de compétences on retrouve toutes mes compétences, qui sont également détaillées sur mon cv et chacune représentée par une barre de progression de maitrise en pourcentages. 
+Cette évaluation de compétences m'est propre, pour moi, elle est représentative de mon niveau dans celles-ci mais cela reste un avis personnel.
 
 # page d'expériences
-La page d'expériences résume toutes les expériences professionelles que j'ai eu ou que j'aurais très prochainement. 
+La page d'expériences résume toutes les expériences professionelles que j'ai eues ou que j'aurais très prochainement. 
 Les expériences sont rangées de la plus vielle (en premier) à la plus récente (en dernière).
 Dans ces cases on retrouve les informations suiventes :
 - la durrée
