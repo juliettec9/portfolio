@@ -45,7 +45,8 @@ pour chaque projet il y a un petit encadré qui contient lui même :
 La page du CV est constitué d'un lien pour téléchargé mon CV en format PDF; et sinon le CV est résumé sur cette page avec la chronologie des formations que j'ai suivis (de la plus récente à la plus enceinne); on retrouve également mon parcours professionnel (du plus encien au plus réssent) et enfin ou retrouve les certification que j'ai faite.
 
 # page de contact
-
+La page de contact résume tous les résaux et moyens de me contacter avec un lien vers mon linkedin et mon github ainsi que de ma localisation pour de possible futur emplois dans ma région (il est précisé que je répond dans les 48h).
+il y a également un formulaire de contact permettant de menvoyer un mail sans avoir à allez sur l'application mail de votre ordinateur et qui m'est directement envoyer.
 
 # page pour les mentions légales
 Ces la page des mentions légales, elle contient les mentions légales importante pour ce portfolio et celle-ci sont françaises.
