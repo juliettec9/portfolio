@@ -10,7 +10,7 @@ Ce portfolio est composé de plusieurs parties :
 - pade de contact
 - et une page pour les mentions légales
 
-Sur toutes les pages il y a acces au menus avec toutes les autres page et il y a également un footer avec le lien de la page de contact et des mentions légales mais également mon nom et prénom, l'année de la dérnière mise à jour de ce portfolio et le symbole de copyright.
+Sur toutes les pages il y a un acces au menus avec toutes les autres pages et il y a également un footer avec le lien de la page de contact et des mentions légales mais également mon nom et prénom, l'année de la dérnière mise à jour de ce portfolio et le symbole de copyright.
 
 # page d'acceuil
 La page d'acceuil contient mon nom et prénom ainsi que mon statut acctuel, une décription de pourquoi j'ai choisi cette voix et enfin 2 liens (l'un mennant à la page de mes projets réalisés et l'autre vers la page de contact)
@@ -42,9 +42,9 @@ pour chaque projet il y a un petit encadré qui contient lui même :
 - un lien vers le git lab du projet ou vers le projet en lui-même
 
 # page pour le CV
+La page du CV est constitué d'un lien pour téléchargé mon CV en format PDF; et sinon le CV est résumé sur cette page avec la chronologie des formations que j'ai suivis (de la plus récente à la plus enceinne); on retrouve également mon parcours professionnel (du plus encien au plus réssent) et enfin ou retrouve les certification que j'ai faite.
 
-
-# pade de contact
+# page de contact
 
 
 # page pour les mentions légales
